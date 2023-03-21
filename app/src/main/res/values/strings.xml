@@ -14,4 +14,12 @@
     <string name="user_name_title">BeboNagy</string>
     <string name="set_username">Username</string>
     <string name="bio">Bio</string>
+    <string name="devices">devices</string>
+    <string name="chat_folders">chat_folders</string>
+    <string name="power_saving">power_saving</string>
+    <string name="data_and_storage">data_and_storage</string>
+    <string name="notifications_and_sounds">notifications_and_sounds</string>
+    <string name="privacy_and_security">privacy_and_security</string>
+    <string name="chat_settings">chat_settings</string>
+    <string name="settings">settings</string>
 </resources>
