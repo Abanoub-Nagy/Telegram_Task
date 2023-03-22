@@ -238,7 +238,8 @@
                 android:layout_marginStart="@dimen/margin_normal"
                 android:text="@string/chat_settings"
                 android:textColor="@color/textColor"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:textStyle="bold" />
         </LinearLayout>
 
 
@@ -259,7 +260,8 @@
                 android:layout_marginStart="@dimen/margin_normal"
                 android:text="@string/privacy_and_security"
                 android:textColor="@color/textColor"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
@@ -279,7 +281,8 @@
                 android:layout_marginStart="@dimen/margin_normal"
                 android:text="@string/notifications_and_sounds"
                 android:textColor="@color/textColor"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
@@ -299,7 +302,8 @@
                 android:layout_marginStart="@dimen/margin_normal"
                 android:text="@string/data_and_storage"
                 android:textColor="@color/textColor"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
@@ -319,7 +323,8 @@
                 android:layout_marginStart="@dimen/margin_normal"
                 android:text="@string/power_saving"
                 android:textColor="@color/textColor"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
@@ -339,7 +344,8 @@
                 android:layout_marginStart="@dimen/margin_normal"
                 android:text="@string/chat_folders"
                 android:textColor="@color/textColor"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
@@ -358,7 +364,8 @@
                 android:layout_marginStart="@dimen/margin_normal"
                 android:text="@string/devices"
                 android:textColor="@color/textColor"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:textStyle="bold" />
         </LinearLayout>
 
 
